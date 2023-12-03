@@ -1,0 +1,12 @@
+[
+  {
+    "institution": "某某大学",
+    "degree": "学士",
+    "major": "计算机科学",
+    "graduation_year": "2020"
+  },
+  {
+    "institution": "某某高中",
+    "degree": "高中毕业"
+  }
+]

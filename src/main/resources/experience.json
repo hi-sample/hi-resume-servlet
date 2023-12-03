@@ -1,0 +1,20 @@
+[
+  {
+    "company": "ABC科技有限公司",
+    "position": "软件工程师",
+    "start_date": "2018-06",
+    "end_date": "2021-12",
+    "responsibilities": "工作职责",
+    "achievements": "主要成就",
+    "description": "在ABC公司负责开发Web应用"
+  },
+  {
+    "company": "XYZ软件公司",
+    "position": "实习生",
+    "start_date": "2017-05",
+    "end_date": "2017-12",
+    "responsibilities": "工作职责",
+    "achievements": "主要成就",
+    "description": "在XYZ公司学习并协助开发移动应用"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "张三",
+  "sex": 1,
+  "birthday": "1990-10",
+  "email": "zhangsan@example.com",
+  "phone": "123-456-7890",
+  "address": "某某省某某市",
+  "linkedin": "https://www.linkedin.com/in/zhangsan/",
+  "summary": "这里是个人简介/总结。"
+}

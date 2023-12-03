@@ -1,0 +1,14 @@
+[
+  {
+    "category": "编程语言",
+    "list": ["Java", "JavaScript", "Python"]
+  },
+  {
+    "category": "前端框架",
+    "list": ["React", "Vue.js"]
+  },
+  {
+    "category": "其他技能",
+    "list": ["问题解决", "团队合作"]
+  }
+]
