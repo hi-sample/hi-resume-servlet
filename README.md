@@ -1,5 +1,5 @@
-# hi-servlet
-servlet json demo
+# hi-resume-servlet
+servlet resume api demo
 
 ## version
 
